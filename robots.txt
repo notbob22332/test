@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rigmod.store/sitemap.xml
+Sitemap: https://rigmod.online/sitemap.xml
